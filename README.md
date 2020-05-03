@@ -14,7 +14,7 @@ Github Project Links considered for this script as input (i.e link.txt):
 https://github.com/JakeWharton/ActionBarSherlock
 https://github.com/nathanmarz/storm
 
-Challeges:
+Challenges:
 
 Getting the Project folder into the script for each github project and setting up the Path to download github projects and collecting logs directory from downloaded project and place it one step outside so that our script can easily access it.
 
